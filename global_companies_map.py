@@ -37,6 +37,7 @@ def global_companies_map():
       # location stores the lat and long of company
       location = geolocator.geocode(country_query, timeout=10, language='en')
       if location:
+        st.write(f"Geocoding result for {row['Company']}, {country_query} {location.address}")
         # plot the location
         popup_message = f"{index}: {row['Company']}, {row['Country']}"
         folium.Marker(location=[location.latitude,
