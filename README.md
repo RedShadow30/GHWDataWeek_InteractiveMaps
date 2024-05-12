@@ -18,7 +18,7 @@ The goal is to have randomly generated color for each flight path and have the f
 Please find the website to the deployed web application in this repository's description and below.
 https://ghwdataweek-interactivemapsvisualization-redshadow30.streamlit.app/#global-distribution-of-top-companies 
 
-Credits to Instructor : Mr. Utkarsh Tiwari
+Credits to Instructor : Mr. Utkarsh Tiwari ---
 Instructor Github Link : https://github.com/utk09
 
 Thank you so much!
