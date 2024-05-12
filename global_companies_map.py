@@ -22,7 +22,7 @@ def global_companies_map():
   st.dataframe(companies_data[["Company", "Country"]])
 
   # initialize a geocode with a user agent
-  geolocator = Nominatim(user_agent="redshadow30's_ghw_data_week")
+  geolocator = Nominatim(user_agent="redshadow30_ghw_data_week")
 
   # create a folim map
   map = folium.Map(location=[20, 0], zoom_start=2, tiles="cartodb dark_matter")
