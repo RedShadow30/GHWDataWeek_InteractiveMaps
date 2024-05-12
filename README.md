@@ -15,8 +15,6 @@ did not have the flight icon alone but also the background. I will continue to i
 This project is still a WORK IN PROGRESS where the main changes will be made to the "AA FLIGHT PATHS" portion of this project. 
 The goal is to have randomly generated color for each flight path and have the flights move along the line if the cursor hovers over that specific flight path. As mentioned previously, the flight icon will be updated.
 
-Please find the website to the deployed web application in this repository's description.
-
 Credits to Instructor : Mr. Utkarsh Tiwari ---
 Instructor Github Link : https://github.com/utk09
 
